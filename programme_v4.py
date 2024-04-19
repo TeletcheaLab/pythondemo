@@ -6,7 +6,7 @@ def affiche_texte(letexte):
   """
   print(letexte)
 
-def demande_texte()
+def demande_texte():
   """
   Fonction qui demande un mot à afficher à l'utilisateur, pour l'instant elle ne fait rien
   """
